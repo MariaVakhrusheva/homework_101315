@@ -5,6 +5,7 @@
 
 
 Console.WriteLine("Задача №15 ");
+
 Console.Write("Введите день недели: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
